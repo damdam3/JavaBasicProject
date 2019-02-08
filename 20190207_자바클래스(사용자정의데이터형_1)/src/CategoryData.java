@@ -8,6 +8,8 @@
 
                               <p class="desc">"순대 맛집은 차원이 달라!"</p>
  */
+
+//hello github
 public class CategoryData {
 	
 	int num;
